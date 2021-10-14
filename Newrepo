@@ -11,3 +11,5 @@ if (age < MINOR)
 System.out.println("Age is a state of mind.");
   }
 }
+/*lol it wouldnt let me add this before, but i have to add test cases for not integers, and me and my friends couldnt figure out how to do it so
+would give an error message if you added a character*/
